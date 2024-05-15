@@ -11,8 +11,16 @@
     align-items: center;
 }
 
-.title span{
+.title .span1{
     color: #26ffcb;
+    padding-left: 15px;
+}
+.title .span2{
+    color: #fffb26;
+    padding-left: 15px;
+}
+.title .span3{
+    color: #ff8026;
     padding-left: 15px;
 }
 
@@ -45,6 +53,7 @@
     width: 564px;
     display:flex;
     margin: auto;
+    justify-content: center;
 }
 
 .boxes img{
